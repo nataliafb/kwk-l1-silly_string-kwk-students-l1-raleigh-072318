@@ -1,5 +1,4 @@
-your_favorite_word = 'nature'
-puts "my favorite word is #{your_favorite_word}"
-your_favorite_word = gets
-end
+favoriteword = 'nature'
+puts "my favorite word is #{favoriteword}"
+favoriteword = gets
 end
